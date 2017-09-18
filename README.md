@@ -1,10 +1,10 @@
-![Retyped logo](https://user-images.githubusercontent.com/62210/30553225-bf327466-9c5d-11e7-8737-b353f4cb219d.png)
+[![Retyped logo](https://user-images.githubusercontent.com/62210/30553225-bf327466-9c5d-11e7-8737-b353f4cb219d.png)](https://retyped.com/)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/62210/30553224-bf2f6bb8-9c5d-11e7-8524-0fa681af17a4.png"></p>
 
 <h1 align="center">Access 2100+ JavaScript libraries from C#</h1>
 
-[![NuGet Status](https://img.shields.io/nuget/v/Retyped.svg)](https://www.nuget.org/packages/Retyped)
+<br />[![NuGet Status](https://img.shields.io/nuget/v/Retyped.svg)](https://www.nuget.org/packages/Retyped)
 [![Join the chat at https://gitter.im/bridgedotnet/Bridge](https://badges.gitter.im/bridgedotnet/Bridge.svg)](https://gitter.im/bridgedotnet/Bridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Getting Started
