@@ -11,6 +11,8 @@
 
 **Retyped** can be added to any existing [Bridge.NET](http://bridge.net/) C# Class Library project.
 
+Check out the [Retyped](https://retyped.com) announcement [blog post](https://blog.bridge.net/2200-js-libraries-in-c-using-retyped-dcfafb28b119).
+
 If you haven't already done so, the first step is to create a Bridge C# Class Library project. The following tutorials demonstrate three techniques for creating a Bridge project.
 
 Install Technique | Video Tutorial
