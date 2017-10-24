@@ -73,6 +73,21 @@ Each **Retyped** package also embeds the source .d.ts declaration file. That fil
 
 In a future release, Retyped packages will also contain all required JavaScript (.js) source files. This is a priority item on our roadmap. Once this feature is supported, that would make the installation process as smooth as possible. For now, the JavaScript .js source file or Module for a particular library must be added to your .html file manually.
 
+## Package Versioning
+
+The version number for Retyped packages follow the pattern of `MAJOR.MINOR.DDDD` with `DDDD` being the number of days since 2000–01–01 UTC.
+
+The `DDDD` calculation is simple and a [Deck](https://deck.net/bf407aa5e088b1a72cdedba8106196da) is available to easily determine the todays `DDDD` value, or find the release date from a `DDDD` value.
+
+For example, the package **Retyped.node 7.0.6477** was created from the **Node 7.0** release and published by Retyped on **6477**, which was September 24, 2017.
+
+```csharp
+// Determine publish date 6477
+new DateTime(2000, 1, 1).AddDays(6477)
+```
+
+This versioning scheme allows for quick referencing of the particular JavaScript libraries version and easy lookup of the publish date, while conforming to the NuGet package versioning [spec](https://docs.microsoft.com/en-us/nuget/reference/package-versioning).
+
 ## FAQ
 
 1. **Question:** I've found a mistake in the Retyped package {library_name}. How can it be fixed?<br/>
