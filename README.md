@@ -57,11 +57,11 @@ install-package retyped.jquery
 
 The **Retyped** parser is built on top of [ANTLR](http://www.antlr.org/), [Mono.Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/), and the .NET [Roslyn](https://github.com/dotnet/roslyn) Compiler Platform.
 
-Retyped reads TypeScript declaration files (.d.ts) and creates a NuGet Package for each library. The TypeScript Definition files are sourced from several locations including [Definitely Typed](http://definitelytyped.org/) and direct from the original author through [NPM](https://www.npmjs.com/).
+Retyped reads TypeScript declaration files (.d.ts) and creates a NuGet Package for each library. The TypeScript Definition files are sourced from several locations including [Definitely Typed](http://definitelytyped.org/), [GitHub](https://github.com), and directly from the original author through [NPM](https://www.npmjs.com/).
 
 A TypeScript declaration file is written in TypeScript and represents the public (exported) members and types of a JavaScript library. If you are familiar with **C++** you can think of a declaration file as a header file **(.h)**. It contains interfaces and definitions, but there are no implementation details.
 
-Retyped is built and professionally supported by the team at **Bridge.NET** ([website](http://bridge.net) | [forums](https://forums.bridge.net) | [github](https://github.com/bridgedotnet/) | [twitter](http://twitter.com/bridgedotnet)).
+Retyped is built and professionally supported by the team at **Bridge.NET** ([website](https://bridge.net) | [forums](https://forums.bridge.net) | [github](https://github.com/bridgedotnet/) | [twitter](http://twitter.com/bridgedotnet)).
 
 ## Package Structure
 
