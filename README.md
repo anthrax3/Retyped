@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/62210/30553224-bf2f6bb8-9c5d-11e7-8524-0fa681af17a4.png"></p>
 
-<h1 align="center">Access 2200+ JavaScript libraries from C#</h1>
+<h1 align="center">Access 2300+ JavaScript libraries from C#</h1>
 
 <br />[![NuGet Status](https://img.shields.io/nuget/v/Retyped.svg)](https://www.nuget.org/packages/Retyped)
 [![Join the chat at https://gitter.im/bridgedotnet/Bridge](https://badges.gitter.im/bridgedotnet/Bridge.svg)](https://gitter.im/bridgedotnet/Bridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
