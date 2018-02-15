@@ -79,7 +79,7 @@ In a future release, Retyped packages will also contain all required JavaScript 
 
 The version number for Retyped packages follow the pattern of `MAJOR.MINOR.DDDD` with `DDDD` being the number of days since 2000–01–01 UTC.
 
-The `DDDD` calculation is simple and a [Deck](https://deck.net/bf407aa5e088b1a72cdedba8106196da) is available to easily determine the todays `DDDD` value, or find the release date from a `DDDD` value.
+The `DDDD` calculation is simple and a [Deck](https://deck.net/bf407aa5e088b1a72cdedba8106196da) is available to easily determine the `DDDD` value based on any given date.
 
 For example, the package **Retyped.node 7.0.6477** was created from the **Node 7.0** release and published by Retyped on **6477**, which was September 24, 2017.
 
@@ -137,4 +137,4 @@ Retyped packages are licensed under [Apache-2.0](https://github.com/Retyped/Rety
 
 Currently, the original C# source code generated for each library by Retyped are not publicly available. We hope to release these at some point in the future, but for now, they're private. The NuGet Packages are public, the C# source code for each package is private.
 
-The Retyped parser and compiler source code is private.
+The Retyped tooling, including the parser and compiler source code is private.
