@@ -1,22 +1,18 @@
-A description of the issue.
+<!--
+Thanks for submitting an Issue.
+You could use one of the templates below, if they help to describe the found problem.
+(to load the template just copy the link and open it in your browser)
 
-**Found in:**
-- [LibraryURL](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. For requesting a Retyped package for a JavaScript library:
+https://github.com/Retyped/Retyped/issues/new?template=LibraryRequest.md
 
-## TypeScript sample
+2. For reporting about incorrectly generated C# API from TypeScript snippet:
+https://github.com/Retyped/Retyped/issues/new?template=TypeScriptToCS.md
 
-```ts
-```
+3. For reporting about incorrect JavaScript output:
+https://github.com/Retyped/Retyped/issues/new?template=CSharpToJS.md
 
-## Actual
 
-```cs
-```
+If nothing above fits the topic of your issue, feel free to report it in a free form below.
+-->
 
-## Expected
-
-```cs
-```
-
-## See also
--
