@@ -1,6 +1,6 @@
 <!--
 Thanks for submitting an Issue.
-Below is a generic template for providing an issue about TypeScript -> C# conversion.
+Below is a generic template for an issue in TypeScript -> C# conversion.
 Please replace templates in curly braces with actual information about the issue.
 Feel free to provide more information, or remove not applicable lines/sections.
 -->
@@ -30,6 +30,7 @@ Declaration file        |    {URL to d.ts file containing incorrectly converted 
 
 ```cs
 ```
+
 
 ## Expected
 <!-- Provide snippet of the expected C# API or
